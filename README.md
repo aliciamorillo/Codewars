@@ -13,3 +13,9 @@ you do
 ## Leveling System
 
 ![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
+
+## List of Challenges
+
+--> JAVA
+
+* [Convert string to camel case](6kyu/Convert string to camel case.java) - 6 kyu
