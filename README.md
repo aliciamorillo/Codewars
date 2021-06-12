@@ -16,6 +16,6 @@ you do
 
 ## List of Challenges
 
---> JAVA
+--> Java
 
 * [Convert string to camel case](6kyu/Convert string to camel case.java) - 6 kyu
